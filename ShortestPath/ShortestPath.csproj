@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="다익스트라 알고리즘 %282%29.png.~tmp" />
+  </ItemGroup>
+
 </Project>
